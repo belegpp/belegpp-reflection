@@ -7,7 +7,7 @@
 This is a header-only c++17 reflection library.
 
 ## Dependencies
-This library depends on the single-header library [beleg-any]([https://github.com/belegpp/belegpp-any](https://github.com/belegpp/belegpp-any)).
+This library depends on the single-header library [beleg-any](https://github.com/belegpp/belegpp-any).
 
 ## How to use
 ### Example Class
