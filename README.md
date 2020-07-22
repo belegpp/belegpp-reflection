@@ -1,7 +1,7 @@
 # Belegpp-Reflection
 
-[![Last Commit](https://img.shields.io/github/last-commit/belegpp/belegpp-reflection?style=for-the-badge)](https://github.com/Git-Curve/belegpp/commits)
-[![License](https://img.shields.io/github/license/belegpp/belegpp-reflection?style=for-the-badge)](https://github.com/Git-Curve/belegpp/blob/master/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/belegpp/belegpp-reflection?style=for-the-badge)](https://github.com/belegpp/belegpp-reflection/commits)
+[![License](https://img.shields.io/github/license/belegpp/belegpp-reflection?style=for-the-badge)](https://github.com/belegpp/belegpp-reflection/blob/master/LICENSE)
 
 ## What is this?
 This is a header-only c++17 reflection library.
